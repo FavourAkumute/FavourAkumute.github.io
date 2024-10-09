@@ -38,4 +38,4 @@ Unlocking the puzzle of why individuals choose to acquire insurance, this projec
 
 #### World Terrorism Analysis
 Discover the story behind global terrorist attacks through an interactive dashboard. Watch as the data unfolds, highlighting trends, locations, and the ever-changing landscape of global threats.
-[ https://public.tableau.com/views/Terroristattack_16861754919070/Worldterroristattacks?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link ]
+https://public.tableau.com/views/Terroristattack_16861754919070/Worldterroristattacks?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
