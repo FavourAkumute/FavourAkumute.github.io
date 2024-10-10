@@ -31,7 +31,7 @@ A Data Scientist/Analyst with 3 years of experience. My expertise spans machine 
 ## PROJECTS
 ### Medical-related projects
 #### Pneumonia Detection in Chest X-rays
-[Data Samples](/portfolio_assets/pneu_x-ray.png)
+![Data Samples](/portfolio_assets/pneu_x-ray.png)
 Imagine a system that can scan medical images and reveal hidden signs of pneumonia with the accuracy and speed of a seasoned radiologist. This project does just that by utilizing a convolutional neural network (CNN) trained on X-ray images to detect the disease in its early stages.
 [See more]
 
@@ -45,6 +45,6 @@ Unlocking the puzzle of why individuals choose to acquire insurance, this projec
 [See more]
 
 #### World Terrorism Analysis
-[Image](/portfolio_assets/terrorist_image.jpg)
+![Image](/portfolio_assets/terrorist_image.jpg)
 Discover the story behind global terrorist attacks through an interactive dashboard. Watch as the data unfolds, highlighting trends, locations, and the ever-changing landscape of global threats. Click the link below to view the dashboard.
 [Dashboard](https://public.tableau.com/views/Terroristattack_16861754919070/Worldterroristattacks?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
