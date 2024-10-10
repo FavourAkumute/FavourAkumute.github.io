@@ -1,6 +1,7 @@
-# Data Scientist
+# ABOUT ME
+A Data Scientist/Analyst with 3 years of experience. My expertise spans machine learning, deep learning, statistical analysis, data preprocessing and data visualization, with hands-on experience in building predictive models, analyzing trends, and optimizing decision-making processes. I’ve worked across industries, from healthcare to finance, tackling projects that range from customer behaviour analysis to disease prediction.
 
-## Work Experience
+## WORK EXPERIENCE
 #### Data Analyst / Researcher (Remote) @ Edither Choice
 * Developed and implemented advanced prediction models with accuracy rates exceeding 80%. Specialized in predicting diverse medical conditions, including coronary heart disease, pneumonia, and stroke, utilizing cutting-edge machine learning models and neural networks. 
 * Co-authored a comprehensive thesis detailing the insights and discoveries from advanced predictive analytics of stroke among individuals from different geographic areas
@@ -30,6 +31,7 @@
 ## Projects
 ### Medical-related projects
 #### Pneumonia Detection in Chest X-rays
+/portfolio_assets/pneu_x-ray.png
 Imagine a system that can scan medical images and reveal hidden signs of pneumonia with the accuracy and speed of a seasoned radiologist. This project does just that by utilizing a convolutional neural network (CNN) trained on X-ray images to detect the disease in its early stages.
 ### Business-related projects
 #### The Insurance Project
