@@ -28,16 +28,23 @@ A Data Scientist/Analyst with 3 years of experience. My expertise spans machine 
 * Tools: Tableau, PowerBi, SPSS, Rstudio, Jupyter Notebook, Microsoft Office (Word, Excel, PowerPoint)
 * Soft Skills: Critical Thinking and Problem-Solving, Collaboration, Effective Communication Skills, Time Management, Story-telling
 
-## Projects
+## PROJECTS
 ### Medical-related projects
 #### Pneumonia Detection in Chest X-rays
-/portfolio_assets/pneu_x-ray.png
+[Data Samples](/portfolio_assets/pneu_x-ray.png)
 Imagine a system that can scan medical images and reveal hidden signs of pneumonia with the accuracy and speed of a seasoned radiologist. This project does just that by utilizing a convolutional neural network (CNN) trained on X-ray images to detect the disease in its early stages.
+[See more]
+
+#### Prediction of Stroke
+In this project, I used various stroke-related symptoms to train three predictive models. The goal was to forecast stroke risk based on factors like brain damage (infarction), facial weakness, arm weakness, leg weakness, and other key signs. 
+[See more]
+
 ### Business-related projects
 #### The Insurance Project
 Unlocking the puzzle of why individuals choose to acquire insurance, this project dives deep into the data of 27326 families to uncover the key factors driving the acquisition of health insurance. By analyzing socio-economic factors such as the nature of their jobs, the family income, educational background, health satisfaction and so on, this project sheds light on potential customers for the insurance company, as well as what motivates individuals to sign up—and stay—leading to enhanced target marketing strategies. The result? A 20% surge in customer acquisition and a 53% boost in retention, proving that the right insights can transform how companies connect with their audience.
-#### Customer Segmentation
+[See more]
 
 #### World Terrorism Analysis
-Discover the story behind global terrorist attacks through an interactive dashboard. Watch as the data unfolds, highlighting trends, locations, and the ever-changing landscape of global threats.
-[Publication](https://public.tableau.com/views/Terroristattack_16861754919070/Worldterroristattacks?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Image](/portfolio_assets/terrorist_image.jpg)
+Discover the story behind global terrorist attacks through an interactive dashboard. Watch as the data unfolds, highlighting trends, locations, and the ever-changing landscape of global threats. Click the link below to view the dashboard.
+[Dashboard](https://public.tableau.com/views/Terroristattack_16861754919070/Worldterroristattacks?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
