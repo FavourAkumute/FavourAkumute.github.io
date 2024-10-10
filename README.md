@@ -37,7 +37,7 @@ Imagine a system that can scan medical images and reveal hidden signs of pneumon
 
 #### Prediction of Stroke
 In this project, I used various stroke-related symptoms to train three predictive models. The goal was to forecast stroke risk based on factors like brain damage (infarction), facial weakness, arm weakness, leg weakness, and other key signs. 
-[See more]
+[See more](/Stroke.md)
 
 ### Business-related projects
 #### The Insurance Project
